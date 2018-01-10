@@ -23,5 +23,6 @@ Architecture and design activities to support the BPC Interact customer portal a
 The Bank Customer Portal will be designed and hosted by the Biopathology Center Informatics Department at the Research Center of Nationwide Children’s Hospital.  A key goal of the Portal will be the modernization of the various systems which supports inclusion of newer NCTN resources into the biospecimen tracking data pipeline, including the Clinical Trials EDC (Medidata RAVE) and the centralized distribution request system (NCTN Navigator). 
 
 ## Implementation Partners
-![JWT Auth for open source projects](https://cdn.auth0.com/oss/badges/a0-badge-dark.png)
-![Joget Workflow](http://www.joget.org/wp-content/uploads/2017/10/JogetWORKFLOWlogo.png)
+ - ![JWT Auth for open source projects](https://cdn.auth0.com/oss/badges/a0-badge-dark.png)
+ - ![ReportServer Enterprise](https://user-images.githubusercontent.com/10222432/34792864-742045ca-f617-11e7-82cd-29aa1ff4f8f9.png)
+ - ![Joget Workflow](https://user-images.githubusercontent.com/10222432/34792432-faa32330-f615-11e7-8cd3-c17ecf20e610.png)
