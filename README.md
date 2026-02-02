@@ -1,5 +1,5 @@
 # BPC Interact Customer Portal
-Source code repository for the BPC Interact customer portal application
+Landing page repository for integrated tools and apps across BPC.
 
 ## Scope
 The BPC Interact customer portal will provide a central point of contact and collaboration for participating institutions, the biorepository team, and the cancer research community at large.  The scope of the Interact portal includes tooling for collaboration on case-level issues as well as workflow automation to speed processes and ensure a consistent experience for those reliant on services from the biorepository.
@@ -22,7 +22,7 @@ Architecture and design activities to support the BPC Interact customer portal a
 ## Implementation
 The Bank Customer Portal will be designed and hosted by the Biopathology Center Informatics Department at the Research Center of Nationwide Children’s Hospital.  A key goal of the Portal will be the modernization of the various systems which supports inclusion of newer NCTN resources into the biospecimen tracking data pipeline, including the Clinical Trials EDC (Medidata RAVE) and the centralized distribution request system (NCTN Navigator). 
 
-## Implementation Partners
+## Technology Used
  - ![JWT Auth for open source projects](https://cdn.auth0.com/oss/badges/a0-badge-dark.png)
  - ![ReportServer Enterprise](https://user-images.githubusercontent.com/10222432/34792864-742045ca-f617-11e7-82cd-29aa1ff4f8f9.png)
  - ![Joget Workflow](https://user-images.githubusercontent.com/10222432/34792432-faa32330-f615-11e7-8cd3-c17ecf20e610.png)
